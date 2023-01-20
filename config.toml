@@ -1,7 +1,7 @@
 baseURL = "https://devTech23.github.io/"
 title = "devTech 23"
 paginate = 5
-theme = "papermod"
+theme = "github.com/adityatelange/hugo-PaperMod"
 enableInlineShortcodes = true
 enableRobotsTXT = true
 buildDrafts = false
@@ -13,7 +13,7 @@ pygmentsUseClasses = true
 
 [params.profileMode]
 enabled = false
-title = "PaperMod"
+title = "papermod"
 imageUrl = "#"
 imageTitle = "my image"
 
