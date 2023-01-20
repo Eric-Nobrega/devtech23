@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://eric-nobrega.github.io/devtech23/sitemap.xml
