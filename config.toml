@@ -1,7 +1,7 @@
 baseURL = "https://devTech23.github.io/"
 title = "devTech 23"
 paginate = 5
-theme = "PaperMod"
+theme = "papermod"
 enableInlineShortcodes = true
 enableRobotsTXT = true
 buildDrafts = false
