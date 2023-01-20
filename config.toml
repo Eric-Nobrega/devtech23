@@ -1,0 +1,128 @@
+baseURL = "https://devTech23.github.io/"
+title = "devTech 23"
+paginate = 5
+theme = "PaperMod"
+enableInlineShortcodes = true
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+enableEmoji = true
+pygmentsUseClasses = true
+
+
+[params.profileMode]
+enabled = false
+title = "PaperMod"
+imageUrl = "#"
+imageTitle = "my image"
+
+[[params.profileMode.buttons]]
+name = "Archives"
+url = "archives"
+
+[[params.profileMode.buttons]]
+name = "Tags"
+url = "tags"
+
+[params.homeInfoParams]
+Title = "devTech 23"
+Content = """
+**devTech 23** is a blog that documents my progress with learning new technologies.<br>
+**These different technologies below are some I have in mind.**
+<details>
+<summary>&nbsp; Frontend Development</summary>
+&nbsp; &nbsp; &nbsp; &rarr; Vanilla JavaScript
+<br> &nbsp; &nbsp; &nbsp; &rarr; TypeScript
+<br> &nbsp; &nbsp; &nbsp; &rarr; HTML
+<br> &nbsp; &nbsp; &nbsp; &rarr; Vanilla CSS
+<br> &nbsp; &nbsp; &nbsp; &rarr; Bootstrap / Tailwind CSS
+<br> &nbsp; &nbsp; &nbsp; &rarr; ReactJS
+<br> &nbsp; &nbsp; &nbsp; &rarr; Redux
+<br> &nbsp; &nbsp; &nbsp; &rarr; NextJS
+<br> &nbsp; &nbsp; &nbsp; &rarr; Testing Libraries(Cypress, Jest, Enzyme)
+</details>
+
+<details>
+<summary>&nbsp; Backend Development</summary>
+&nbsp; &nbsp; &nbsp; &rarr; NodeJS
+<br> &nbsp; &nbsp; &nbsp; &rarr; ExpressJS
+<br> &nbsp; &nbsp; &nbsp; &rarr; MongoDB / Alternative
+<br> &nbsp; &nbsp; &nbsp; &rarr; RESTAPIs
+<br> &nbsp; &nbsp; &nbsp; &rarr; GraphQL
+<br> &nbsp; &nbsp; &nbsp; &rarr; SQL
+<br> &nbsp; &nbsp; &nbsp; &rarr; Java/C#/Python
+</details>
+
+<details>
+<summary>&nbsp; Mobile Development</summary>
+&nbsp; &nbsp; &nbsp; &rarr; React Native
+<br> &nbsp; &nbsp; &nbsp; &rarr; Google Firebase
+</details>
+
+<details>
+<summary>&nbsp; Development Tools</summary>
+&nbsp; &nbsp; &nbsp; &rarr; Figma
+<br> &nbsp; &nbsp; &nbsp; &rarr; Adobe XD
+<br> &nbsp; &nbsp; &nbsp; &rarr; Git Version Control
+</details>
+
+<details>
+<summary>&nbsp; Computer Science Core</summary>
+&nbsp; &nbsp; &nbsp; &rarr; Data Structures & Algorithms
+<br> &nbsp; &nbsp; &nbsp; &rarr; Design Pattterns
+<br> &nbsp; &nbsp; &nbsp; &rarr; Software Development Lifecycle
+</details>
+"""
+
+[[params.socialIcons]]
+    
+    
+    
+    name = "github"                                         
+url = "https://github.com/Eric-Nobrega"
+                                                                                        
+[[params.socialIcons]]
+name = "KoFi"
+url = "https://ko-fi.com/adityatelange"
+
+[[params.socialIcons]]
+name = "Rss"
+url = "index.xml"
+
+[params.editPost]
+URL = "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
+Text = "Suggest Changes"
+appendFilePath = true
+
+[params.assets]
+disableHLJS = true
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.highlight]
+noClasses = false
+
+[privacy.vimeo]
+disabled = false
+simple = true
+
+[privacy.twitter]
+disabled = false
+enableDNT = true
+simple = true
+
+[privacy.instagram]
+disabled = false
+simple = true
+
+[privacy.youtube]
+disabled = false
+privacyEnhanced = true
+
+[services.instagram]
+disableInlineCSS = true
+
+[services.twitter]
+disableInlineCSS = true
