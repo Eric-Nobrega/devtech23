@@ -15,5 +15,14 @@
       <description>My plan for this blog.</description>
     </item>
     
+    <item>
+      <title>devTech #2: First Session Summary, Study Plan, Certificates</title>
+      <link>https://eric-nobrega.github.io/devtech23/posts/post-2/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://eric-nobrega.github.io/devtech23/posts/post-2/</guid>
+      <description>Summary of my first session &#43; My Study Strategy.</description>
+    </item>
+    
   </channel>
 </rss>
