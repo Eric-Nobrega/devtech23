@@ -5,7 +5,25 @@
     <link>https://eric-nobrega.github.io/devtech23/tags/text/</link>
     <description>Recent content in text on devTech 23</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 20 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://eric-nobrega.github.io/devtech23/tags/text/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://eric-nobrega.github.io/devtech23/tags/text/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>devTech #3: First Week Almost Completed!</title>
+      <link>https://eric-nobrega.github.io/devtech23/posts/post-3/</link>
+      <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://eric-nobrega.github.io/devtech23/posts/post-3/</guid>
+      <description>My progress and what I&amp;#39;ve been studying.</description>
+    </item>
+    
+    <item>
+      <title>devTech #2: First Session Summary, Study Plan, Certificates</title>
+      <link>https://eric-nobrega.github.io/devtech23/posts/post-2/</link>
+      <pubDate>Sun, 22 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://eric-nobrega.github.io/devtech23/posts/post-2/</guid>
+      <description>Summary of my first session &#43; My Study Strategy.</description>
+    </item>
+    
     <item>
       <title>devTech #1: My First Post</title>
       <link>https://eric-nobrega.github.io/devtech23/posts/post-1/</link>
@@ -13,15 +31,6 @@
       
       <guid>https://eric-nobrega.github.io/devtech23/posts/post-1/</guid>
       <description>My plan for this blog.</description>
-    </item>
-    
-    <item>
-      <title>devTech #2: First Session Summary, Study Plan, Certificates</title>
-      <link>https://eric-nobrega.github.io/devtech23/posts/post-2/</link>
-      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://eric-nobrega.github.io/devtech23/posts/post-2/</guid>
-      <description>Summary of my first session &#43; My Study Strategy.</description>
     </item>
     
   </channel>

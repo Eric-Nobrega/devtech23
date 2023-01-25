@@ -1,7 +1,7 @@
 ---
 author: "Eric Nobrega"
 title: "devTech #2: First Session Summary, Study Plan, Certificates"
-date: "2023-01-20"
+date: "2023-01-22"
 description: "Summary of my first session + My Study Strategy."
 tags: ["markdown", "text"]
 hideMeta: true
