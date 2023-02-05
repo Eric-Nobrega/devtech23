@@ -35,7 +35,7 @@ Once I have completed this course, and have a few React Projects under my belt, 
 
 I am also studying for my AWS CCP Certification and have been following a course on udemy for this.
 
-This concludes my third post here on devTech 23. I plan on posting regularly moving forward.
+This concludes my fourth post here on devTech 23. I plan on posting regularly moving forward.
 
 {{< css.inline >}}
 
