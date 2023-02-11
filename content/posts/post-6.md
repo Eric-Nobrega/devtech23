@@ -8,9 +8,6 @@ hideMeta: true
 searchHidden: true
 ShowBreadCrumbs: true
 ---
-
-REFACTOR USING CHATGPT-3
-
 ### Which topics have I studied/am I currently studying?
 
 Initially, my studies have been focused on front-end technologies since that's where my interest lies. I have gained knowledge in the following topics/technologies:
